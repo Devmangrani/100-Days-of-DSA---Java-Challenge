@@ -1,5 +1,5 @@
-package Day 30;
-122. Best Time to Buy and Sell Stock II
+// package Day 30;
+// 122. Best Time to Buy and Sell Stock II
 public class Day30 {
     class Solution {
         public int maxProfit(int[] prices) {
